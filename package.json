@@ -1,15 +1,15 @@
 {
-  "name": "babel-preset-syntax-stage-3",
+  "name": "babel-plugin-syntax-stage-3",
   "version": "0.1.0",
-  "description": "Babel preset to provide pass-through support for Stage 3 syntax",
+  "description": "Babel plugin to provide pass-through support for Stage 3 syntax",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guybedford/babel-preset-syntax-stage-3.git"
+    "url": "git+https://github.com/guybedford/babel-plugin-syntax-stage-3.git"
   },
   "author": "Guy Bedford",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guybedford/babel-preset-syntax-stage-3/issues"
+    "url": "https://github.com/guybedford/babel-plugin-syntax-stage-3/issues"
   }
 }
